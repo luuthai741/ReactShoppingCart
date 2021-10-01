@@ -1,0 +1,11 @@
+// MESSAGE
+export const MESSAGE_SUCCESS = "MESSAGE_SUCCESS"
+export const MESSAGE_UPDATE = "MESSAGE_UPDATE"
+export const MESSAGE_DELETE = "MESSAGE_DELETE"
+
+
+// PRODUCT
+export const LIST_PRODUCTS = "LIST_PRODUCTS"
+export const ADD_TO_CART = "ADD_TO_CART"
+export const UPDATE_ITEM = "UPDATE_ITEM"
+export const DELETE_ITEM = "DELETE_ITEM"
